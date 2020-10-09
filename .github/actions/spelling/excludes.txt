@@ -1,0 +1,6 @@
+^\.github/actions/spelling/
+^package-lock\.json$
+\.gif$
+\.png$
+\.tsbuildinfo$
+ignore$
